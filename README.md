@@ -9,7 +9,7 @@
  Install using **composer**:
 
  ```bash
- $ composer require werneckbh/laravel-qr-code
+ $ composer require edohay/laravel-qr-code
  ```
 ##### Laravel 5.4 (5.5+ can skip this step)
  
