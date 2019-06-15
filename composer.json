@@ -8,7 +8,6 @@
             "email": "brunovaulawerneck@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "edohay/qr-code": "^2.1"
     },
